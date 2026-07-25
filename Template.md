@@ -1,95 +1,67 @@
-# Template.md
+# Research Article Template
 
-# Luận Điểm | Business Research
+## 1. Title
 
-## Standard Article Template
-
-Sử dụng cấu trúc này cho mọi bài nghiên cứu doanh nghiệp.
+A clear, informative title focused on the business.
 
 ---
 
-# 1. Title
+## 2. Subtitle
 
-Tiêu đề ngắn gọn, rõ ràng.
-
-Không giật tít.
-
-Không sử dụng các từ như:
-
-- Cổ phiếu sẽ tăng mạnh
-- Cơ hội nghìn năm
-- Không thể bỏ lỡ
-- Siêu cổ phiếu
+Summarize the core investment question.
 
 ---
 
-# 2. Subtitle
+## 3. Opening Question
 
-Tóm tắt bài viết trong 1–2 câu.
-
-Cho người đọc biết họ sẽ học được gì.
+Start with a question that sparks curiosity.
 
 ---
 
-# 3. Opening Question
+## 4. Business Story
 
-Mở đầu bằng một câu hỏi hoặc hiện tượng thú vị.
+Explain:
 
-Ví dụ:
-
-- Điều gì khiến doanh nghiệp này duy trì tăng trưởng nhiều năm?
-- Vì sao biên lợi nhuận của doanh nghiệp cao hơn đối thủ?
-- Điều gì thị trường đang bỏ qua?
-
-Không mở đầu bằng số liệu khô khan.
+- What the company does
+- Why customers buy
+- Why the business exists
 
 ---
 
-# 4. Business Model
+## 5. Business Model
 
-Trình bày:
-
-- Doanh nghiệp bán gì?
-- Khách hàng là ai?
-- Doanh thu đến từ đâu?
-- Công ty tạo lợi nhuận như thế nào?
-- Những mảng kinh doanh chính.
+- Products & Services
+- Customers
+- Revenue Sources
+- Cost Structure
 
 ---
 
-# 5. Competitive Advantages
+## 6. Competitive Advantages
 
-Phân tích lợi thế cạnh tranh:
+Analyze:
 
-- Thương hiệu
-- Quy mô
-- Chi phí
-- Công nghệ
-- Hệ thống phân phối
-- Dữ liệu
-- Rào cản gia nhập
-
-Đánh giá liệu lợi thế này có bền vững hay không.
+- Brand
+- Scale
+- Technology
+- Distribution
+- Switching Costs
+- Cost Advantage
 
 ---
 
-# 6. Industry
+## 7. Industry
 
-Phân tích ngành:
-
-- Quy mô
-- Xu hướng
-- Chu kỳ
-- Động lực tăng trưởng
-- Mức độ cạnh tranh
-- Cơ hội
-- Thách thức
+- Market Size
+- Industry Trends
+- Competition
+- Growth Drivers
 
 ---
 
-# 7. Financial Analysis
+## 8. Quarterly Financial Analysis
 
-Ưu tiên phân tích:
+Review:
 
 - Revenue
 - Gross Profit
@@ -98,128 +70,78 @@ Phân tích ngành:
 - EPS
 - ROE
 - ROA
-- Gross Margin
-- Operating Margin
-- Net Margin
+- Margins
 - Cash Flow
 - Debt
 
-So sánh:
+Compare:
 
 - QoQ
 - YoY
-- 3 năm (nếu có)
+- 3-Year Trend
+- 5-Year Trend (if available)
 
-Luôn giải thích nguyên nhân thay đổi số liệu.
-
-Không chỉ mô tả.
-
----
-
-# 8. Management
-
-Đánh giá:
-
-- Ban lãnh đạo
-- Chiến lược
-- Khả năng thực thi
-- Phân bổ vốn
-- Các quyết định quan trọng
+Explain why performance changed.
 
 ---
 
-# 9. Growth Catalysts
+## 9. Management
 
-Những yếu tố có thể thúc đẩy tăng trưởng:
+Evaluate:
 
-- Sản phẩm mới
-- Nhà máy mới
-- Thị trường mới
-- Chính sách
-- M&A
-- Xu hướng ngành
+- Strategy
+- Execution
+- Capital Allocation
 
 ---
 
-# 10. Valuation
+## 10. Growth Catalysts
 
-Đánh giá định giá độc lập với chất lượng doanh nghiệp.
-
-Có thể sử dụng:
-
-- PE
-- PB
-- EV/EBITDA
-- DCF
-
-Luôn nêu rõ giả định.
-
-Không đưa khuyến nghị mua hoặc bán.
+Identify future growth drivers.
 
 ---
 
-# 11. Risks
+## 11. Valuation
 
-Phân tích các rủi ro chính:
+Discuss valuation separately from business quality.
 
-- Cạnh tranh
-- Chi phí đầu vào
-- Pháp lý
-- Tỷ giá
-- Lãi suất
-- Quản trị
-- Chu kỳ ngành
+Clearly explain assumptions.
 
 ---
 
-# 12. Investment Thesis
+## 12. Risks
 
-Tóm tắt luận điểm đầu tư.
-
-Nêu rõ:
-
-- Điểm mạnh
-- Điểm yếu
-- Cơ hội
-- Rủi ro
-
-Không kết luận nên mua hay bán.
+Discuss operational, financial, industry, and macroeconomic risks.
 
 ---
 
-# 13. Three Key Takeaways
+## 13. Investment Thesis
 
-Kết thúc bài bằng 3 ý quan trọng nhất.
-
-Ví dụ:
-
-- Doanh nghiệp đang tăng trưởng nhờ...
-- Lợi thế cạnh tranh nằm ở...
-- Nhà đầu tư cần theo dõi...
+Summarize the business case without giving Buy/Sell recommendations.
 
 ---
 
-# 14. Discussion Question
+## 14. Three Key Takeaways
 
-Đặt một câu hỏi mở để khuyến khích thảo luận.
-
-Ví dụ:
-
-"Bạn cho rằng động lực tăng trưởng nào sẽ quan trọng nhất trong 5 năm tới?"
+Summarize the three most important insights.
 
 ---
 
-# 15. Disclaimer
+## 15. Discussion Question
 
-Ví dụ:
-
-> Bài viết chỉ nhằm mục đích nghiên cứu và chia sẻ thông tin, không phải là khuyến nghị mua, bán hoặc nắm giữ bất kỳ chứng khoán nào. Người đọc nên tự nghiên cứu và chịu trách nhiệm với quyết định đầu tư của mình.
+Invite readers to think and discuss.
 
 ---
 
-# Additional Outputs
+## 16. Disclaimer
 
-Sau mỗi bài viết, tạo thêm:
+State that the article is for educational purposes only and does not constitute investment advice.
+
+---
+
+## Additional Outputs
+
+Generate:
 
 - SEO Title
 - SEO Description
@@ -229,6 +151,7 @@ Sau mỗi bài viết, tạo thêm:
 - LinkedIn Post
 - X Thread
 - YouTube Description
-- Cover Image Prompt (16:9)
+- Cover Image Prompt
+- Facebook Image Prompt
 - Thumbnail Prompt
-- 5 câu hỏi hoặc bình luận để khuyến khích thảo luận.
+- Five Discussion Comments
