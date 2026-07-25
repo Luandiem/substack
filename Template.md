@@ -135,7 +135,13 @@ Invite readers to think and discuss.
 
 ## 16. Disclaimer
 
-State that the article is for educational purposes only and does not constitute investment advice.
+This article is intended to provide knowledge, business research, analytical frameworks, and perspectives for Vietnamese retail investors.
+
+Its purpose is to help readers better understand businesses, industries, and investment thinking.
+
+The content does not constitute investment advice, a recommendation to buy or sell securities, or a prediction of future market performance.
+
+Readers should conduct their own research and make investment decisions based on their own objectives, risk tolerance, and judgment.
 
 ---
 
