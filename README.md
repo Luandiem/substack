@@ -1,50 +1,83 @@
 # Luận Điểm | Business Research
 
-> Hiểu doanh nghiệp. Hiểu giá trị. Đầu tư với tư duy dài hạn.
+> **Hiểu doanh nghiệp. Xây dựng luận điểm. Mở rộng góc nhìn.**
 
 ## Giới thiệu
 
-**Luận Điểm | Business Research** là dự án xây dựng hệ thống nghiên cứu doanh nghiệp và sản xuất nội dung chuyên sâu dành cho nhà đầu tư Việt Nam.
+**Luận Điểm | Business Research** là dự án nghiên cứu doanh nghiệp, phân tích ngành và xây dựng nội dung chuyên sâu dành cho nhà đầu tư cá nhân Việt Nam.
 
-Mục tiêu của dự án là giúp người đọc **hiểu doanh nghiệp**, thay vì đưa ra khuyến nghị mua hoặc bán cổ phiếu.
+Mục tiêu của dự án không phải là dự đoán giá cổ phiếu hay đưa ra khuyến nghị đầu tư, mà là cung cấp kiến thức, luận điểm nghiên cứu và góc nhìn đa chiều để giúp người đọc hiểu rõ hơn về doanh nghiệp, ngành nghề và các yếu tố tạo ra giá trị dài hạn.
 
-Repository này cung cấp các hướng dẫn, framework và template để AI tạo ra những bài phân tích có tính nhất quán, khách quan và dựa trên dữ liệu.
-
----
-
-# Mục tiêu
-
-- Phân tích doanh nghiệp từ góc nhìn kinh doanh.
-- Giải thích báo cáo tài chính bằng ngôn ngữ dễ hiểu.
-- Đánh giá lợi thế cạnh tranh và động lực tăng trưởng.
-- Phân tích định giá độc lập với chất lượng doanh nghiệp.
-- Xây dựng nội dung chất lượng cao cho Substack và các nền tảng mạng xã hội.
+Repository này được xây dựng như một **Knowledge Base** dành cho AI, giúp tạo ra các bài viết có chất lượng đồng nhất, logic, khách quan và dựa trên dữ liệu.
 
 ---
 
-# Độc giả
+# Sứ mệnh
 
-Dự án hướng đến:
+Luận Điểm hướng đến việc:
 
-- Nhà đầu tư cá nhân.
-- Người quan tâm đến doanh nghiệp và thị trường chứng khoán.
-- Sinh viên và người học tài chính.
-- Người muốn xây dựng tư duy đầu tư dài hạn.
+- Giải thích doanh nghiệp bằng ngôn ngữ đơn giản nhưng chính xác.
+- Phân tích báo cáo tài chính dựa trên bối cảnh kinh doanh.
+- Xây dựng tư duy đầu tư dài hạn thay vì chạy theo biến động ngắn hạn.
+- Cung cấp các góc nhìn độc lập, cân bằng và có cơ sở.
+- Khuyến khích người đọc tự hình thành quan điểm thay vì tiếp nhận kết luận có sẵn.
 
 ---
 
-# Nguyên tắc cốt lõi
+# Đối tượng độc giả
 
-Mọi nội dung phải tuân thủ các nguyên tắc sau:
+Luận Điểm được xây dựng dành cho:
 
-- Luôn viết bằng tiếng Việt.
-- Ưu tiên dữ liệu và bằng chứng.
-- Phân biệt rõ **Fact** và **Opinion**.
-- Phân biệt **Doanh nghiệp tốt** và **Khoản đầu tư tốt**.
-- Không khuyến nghị Mua hoặc Bán.
-- Không tự tạo dữ liệu tài chính.
-- Luôn nêu rõ nguồn dữ liệu khi có.
-- Nếu thiếu dữ liệu, phải nói rõ thay vì suy đoán.
+- Nhà đầu tư cá nhân Việt Nam.
+- Người muốn học phân tích doanh nghiệp.
+- Người quan tâm đến đầu tư giá trị và chất lượng doanh nghiệp.
+- Sinh viên và người làm trong lĩnh vực tài chính.
+- Bất kỳ ai muốn hiểu doanh nghiệp trước khi quan tâm đến cổ phiếu.
+
+---
+
+# Triết lý nội dung
+
+Mọi bài viết đều dựa trên các nguyên tắc sau:
+
+- Hiểu doanh nghiệp trước khi bàn đến định giá.
+- Phân biệt rõ giữa **chất lượng doanh nghiệp** và **mức hấp dẫn của khoản đầu tư**.
+- Luôn tách biệt **Sự thật (Fact)** và **Nhận định (Opinion)**.
+- Dựa trên dữ liệu, bằng chứng và lập luận thay vì cảm xúc.
+- Không cường điệu, không giật tít, không tạo FOMO.
+- Không khuyến nghị Mua, Bán hoặc Nắm giữ cổ phiếu.
+- Không tự tạo dữ liệu hoặc suy đoán khi thiếu thông tin.
+
+---
+
+# Nội dung nghiên cứu
+
+Repository hỗ trợ AI xây dựng các nội dung như:
+
+- Phân tích doanh nghiệp.
+- Phân tích ngành.
+- Phân tích báo cáo tài chính.
+- Phân tích kết quả kinh doanh theo quý.
+- Phân tích chiến lược và lợi thế cạnh tranh.
+- Phân tích định giá.
+- Bình luận về các xu hướng kinh doanh và đầu tư.
+
+---
+
+# Quy trình nghiên cứu
+
+Mỗi bài viết được xây dựng theo quy trình:
+
+1. Thu thập dữ liệu từ các nguồn đáng tin cậy.
+2. Hiểu mô hình kinh doanh.
+3. Phân tích ngành và bối cảnh cạnh tranh.
+4. Đánh giá chất lượng doanh nghiệp.
+5. Phân tích báo cáo tài chính.
+6. Xác định động lực tăng trưởng.
+7. Đánh giá rủi ro.
+8. Phân tích định giá.
+9. Xây dựng luận điểm.
+10. Tổng hợp thành bài viết và nội dung truyền thông.
 
 ---
 
@@ -52,50 +85,60 @@ Mọi nội dung phải tuân thủ các nguyên tắc sau:
 
 | File | Mục đích |
 |------|----------|
-| `CLAUDE.md` | Quy tắc AI và hướng dẫn viết |
-| `Research.md` | Framework phân tích doanh nghiệp |
-| `Template.md` | Cấu trúc bài viết chuẩn |
-| `Examples.md` | Bài viết mẫu và ví dụ tham khảo |
+| `CLAUDE.md` | Thiết lập vai trò AI, nguyên tắc nghiên cứu và quy tắc viết. |
+| `Writing-Guide.md` | Hướng dẫn văn phong, storytelling và cách trình bày. |
+| `Research.md` | Framework phân tích doanh nghiệp và ngành. |
+| `Template.md` | Cấu trúc chuẩn cho mọi bài viết nghiên cứu. |
+| `Examples.md` | Ví dụ bài viết mẫu và phong cách trình bày. |
 
 ---
 
-# Quy trình làm việc
-
-1. Thu thập dữ liệu doanh nghiệp.
-2. Phân tích mô hình kinh doanh.
-3. Phân tích tài chính.
-4. Đánh giá lợi thế cạnh tranh.
-5. Phân tích rủi ro và định giá.
-6. Viết bài theo template chuẩn.
-7. Tạo nội dung SEO và mạng xã hội.
-8. Kiểm tra chất lượng trước khi xuất bản.
-
----
-
-# Nội dung đầu ra
+# Đầu ra tiêu chuẩn
 
 Sau mỗi bài nghiên cứu, AI cần tạo:
 
-- Bài viết Substack hoàn chỉnh.
+- Bài viết hoàn chỉnh cho Substack.
 - SEO Title.
 - SEO Description.
 - SEO Keywords.
+- Substack Subtitle.
 - Facebook Post.
 - LinkedIn Post.
 - X Thread.
 - YouTube Description.
-- Prompt ảnh Cover.
+- Prompt ảnh Cover (16:9).
+- Prompt ảnh Facebook (4:5).
 - Prompt Thumbnail.
-- 3 Key Takeaways.
-- Câu hỏi thảo luận.
+- Ba ý chính (Key Takeaways).
+- Một câu hỏi thảo luận.
 - Disclaimer.
 
 ---
 
-# Sứ mệnh
+# Nguyên tắc chất lượng
 
-Luận Điểm tin rằng:
+Trước khi hoàn thành bài viết, AI cần đảm bảo:
 
-> Hiểu doanh nghiệp luôn quan trọng hơn dự đoán biến động giá cổ phiếu.
+- Mọi số liệu đều có nguồn hoặc được ghi rõ là chưa có dữ liệu.
+- Phân biệt rõ Fact và Opinion.
+- Giải thích nguyên nhân thay đổi của các chỉ số tài chính.
+- Phân tích cả cơ hội và rủi ro.
+- Tách biệt chất lượng doanh nghiệp với định giá.
+- Sử dụng ngôn ngữ rõ ràng, dễ hiểu và khách quan.
 
-Mỗi bài viết hướng đến việc giúp người đọc đưa ra quyết định dựa trên kiến thức, dữ liệu và tư duy phản biện thay vì cảm xúc hoặc xu hướng ngắn hạn.
+---
+
+# Định hướng dài hạn
+
+Luận Điểm không hướng tới việc dự đoán thị trường.
+
+Luận Điểm hướng tới việc xây dựng một thư viện nghiên cứu chất lượng cao, giúp nhà đầu tư cá nhân:
+
+- Hiểu doanh nghiệp sâu hơn.
+- Đọc báo cáo tài chính hiệu quả hơn.
+- Xây dựng tư duy phân tích độc lập.
+- Đưa ra quyết định đầu tư dựa trên kiến thức, dữ liệu và lập luận thay vì cảm xúc.
+
+---
+
+> **Luận Điểm | Business Research** tin rằng: *Hiểu doanh nghiệp là nền tảng của mọi quyết định đầu tư dài hạn.*
