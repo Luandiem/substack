@@ -1,176 +1,230 @@
-# Research Article Template
+# SUBSTACK TEMPLATE
 
-## Objective
-
-Every research article should help Vietnamese retail investors better understand a business, an industry, or an investment idea through objective analysis, evidence, and clear reasoning.
-
-The objective is to provide knowledge, research-based insights, analytical frameworks, and independent perspectives—not investment recommendations.
+Version: 4.0
 
 ---
 
-# Article Structure
+# Purpose
 
-## 1. Title
+This template defines the standard structure for every long-form article published by **Luận Điểm | Business Research**.
 
-Create a concise and informative title that reflects the main research topic.
+Every article should educate readers, explain businesses objectively, and encourage independent investment thinking.
 
-Avoid sensational or clickbait titles.
-
----
-
-## 2. Subtitle
-
-Summarize the core research question or investment thesis in one or two sentences.
+The objective is understanding—not prediction.
 
 ---
 
-## 3. Opening Question
+# ARTICLE INFORMATION
 
-Begin with an interesting question, observation, or business phenomenon.
+Company:
 
-The introduction should encourage curiosity and provide context for the rest of the article.
+Ticker:
 
-Avoid discussing financial statements immediately.
+Exchange:
+
+Sector:
+
+Industry:
+
+Reporting Period:
+
+Article Type:
+
+Author:
+
+Date:
+
+Estimated Reading Time:
+
+Primary Sources:
 
 ---
 
-## 4. Business Story
+# TITLE
+
+Create a concise, professional title.
+
+Avoid:
+
+- Clickbait
+- Price predictions
+- Emotional language
+
+---
+
+# SUBTITLE
+
+Summarize the core investment question in one or two sentences.
+
+---
+
+# OPENING HOOK
+
+Begin with one of the following:
+
+- An interesting question
+- A business dilemma
+- A surprising fact
+- An industry trend
+- A customer problem
+
+The opening should create curiosity before introducing financial analysis.
+
+---
+
+# WHY THIS BUSINESS MATTERS
+
+Briefly explain:
+
+- Why this company deserves attention.
+- Why investors should understand this business.
+- Why this industry matters today.
+
+---
+
+# BUSINESS STORY
 
 Explain:
 
 - What problem does the company solve?
-- Why do customers choose its products or services?
-- How does the company create value?
-- Why does this business exist?
+- Who are its customers?
+- Why do customers choose it?
+- How does it create value?
+- Why is the business difficult to replicate?
 
-Focus on helping readers understand the business before analyzing the numbers.
+Focus on business understanding before financial performance.
 
 ---
 
-## 5. Business Model
+# BUSINESS MODEL
+
+Describe:
+
+- Products and services
+- Revenue streams
+- Cost structure
+- Profit drivers
+- Ecosystem
+- Scalability
+
+Answer one question:
+
+> How does this company make money?
+
+---
+
+# COMPETITIVE ADVANTAGES
+
+Evaluate:
+
+- Brand
+- Cost advantages
+- Distribution
+- Technology
+- Network effects
+- Switching costs
+- Intellectual property
+- Regulatory advantages
+
+Differentiate between temporary and durable advantages.
+
+---
+
+# INDUSTRY LANDSCAPE
 
 Analyze:
 
-- Products and services
-- Customer segments
-- Revenue sources
-- Cost structure
-- Profit drivers
-- Business ecosystem
-
-Answer:
-
-"How does this company make money?"
-
----
-
-## 6. Competitive Advantages
-
-Evaluate whether the company possesses durable competitive advantages.
-
-Possible factors include:
-
-- Brand
-- Cost leadership
-- Scale
-- Distribution network
-- Technology
-- Intellectual property
-- Switching costs
-- Network effects
-- Regulatory advantages
-
-Clearly distinguish between temporary advantages and sustainable competitive advantages.
-
----
-
-## 7. Industry Analysis
-
-Explain:
-
 - Industry size
-- Industry structure
-- Growth trends
-- Competitive landscape
-- Market opportunities
-- Industry challenges
-- Long-term outlook
+- Industry cycle
+- Market structure
+- Key competitors
+- Long-term trends
+- Opportunities
+- Challenges
 
-Discuss how industry dynamics influence the company's future.
+Explain how the industry influences future performance.
 
 ---
 
-## 8. Quarterly Financial Analysis
+# QUARTERLY PERFORMANCE
 
-Prioritize:
+Discuss:
 
-- Revenue
-- Gross Profit
-- Operating Profit
-- Net Profit
-- EPS
-- ROE
-- ROA
-- Gross Margin
-- Operating Margin
-- Net Margin
-- Cash Flow
-- Debt
-- Market Share (if available)
+Revenue
+
+Gross Profit
+
+Operating Profit
+
+Net Profit
+
+EPS
+
+ROE
+
+ROA
+
+Margins
+
+Cash Flow
+
+Debt
+
+Market Share
 
 Compare:
 
 - QoQ
 - YoY
 - 3-Year Trend
-- 5-Year Trend (when available)
-
-Do not simply report numbers.
+- 5-Year Trend (if available)
 
 Always explain:
 
 - What changed?
-- Why did it change?
-- Is the change sustainable?
-- What should investors monitor next?
+- Why?
+- Is it sustainable?
+- What should readers monitor?
 
 ---
 
-## 9. Management
+# MANAGEMENT
 
 Evaluate:
 
-- Leadership quality
-- Business strategy
+- Leadership
+- Execution
 - Capital allocation
-- Execution capability
-- Corporate governance
+- Governance
+- Strategic decisions
 
-Avoid judging management without supporting evidence.
+Support conclusions with evidence.
 
 ---
 
-## 10. Growth Catalysts
+# GROWTH CATALYSTS
 
-Identify factors that may drive future growth, such as:
+Identify future growth drivers.
 
-- New products
+Examples:
+
 - Capacity expansion
-- New markets
-- Industry trends
+- New products
+- Market expansion
 - Technology
-- Policy changes
-- Mergers and acquisitions
+- Digital transformation
+- Policy support
+- M&A
 
-Separate confirmed facts from expectations.
+Separate facts from expectations.
 
 ---
 
-## 11. Valuation
+# VALUATION
 
-Discuss valuation independently from business quality.
+Separate valuation from business quality.
 
-Possible methods:
+Possible approaches:
 
 - P/E
 - P/B
@@ -179,122 +233,238 @@ Possible methods:
 - Peer comparison
 - Historical valuation
 
-Clearly state all assumptions.
+State assumptions clearly.
 
-Do not conclude that a stock should be bought or sold.
-
----
-
-## 12. Risks
-
-Discuss key risks objectively.
-
-Possible categories include:
-
-- Competition
-- Raw material costs
-- Interest rates
-- Exchange rates
-- Regulation
-- Technology
-- Corporate governance
-- Industry cycle
-
-Explain how each risk could affect the business.
+Never conclude Buy or Sell.
 
 ---
 
-## 13. Investment Thesis
+# RISK ANALYSIS
 
-Summarize the key research findings.
+Discuss:
 
-Focus on:
+Business Risks
 
-- Business quality
-- Growth potential
-- Financial strength
-- Competitive positioning
-- Valuation
+Financial Risks
 
-Do not provide Buy, Sell, or Hold recommendations.
+Industry Risks
 
----
+Execution Risks
 
-## 14. Three Key Takeaways
+Regulatory Risks
 
-Summarize the three most important insights from the article.
+Macro Risks
 
-Keep each takeaway concise and actionable.
+Explain:
 
----
+Probability
 
-## 15. Discussion Question
+Potential Impact
 
-End with one thoughtful question that encourages readers to think critically or share different perspectives.
+Indicators to monitor
 
 ---
 
-## 16. Disclaimer
+# INVESTMENT THESIS
 
-End every article with a disclaimer similar to the following:
+Summarize the research.
 
-> Bài viết nhằm cung cấp kiến thức, luận điểm nghiên cứu và góc nhìn để hỗ trợ nhà đầu tư cá nhân hiểu rõ hơn về doanh nghiệp, ngành nghề và tư duy đầu tư dài hạn. Nội dung không phải là khuyến nghị mua, bán hay nắm giữ bất kỳ chứng khoán nào. Mỗi nhà đầu tư nên tự nghiên cứu và chịu trách nhiệm đối với quyết định đầu tư của mình.
+Discuss:
 
----
+Business Quality
 
-# Additional Outputs
+Growth Drivers
 
-After completing the research article, also generate:
+Financial Strength
 
-## SEO
+Competitive Position
 
-- SEO Title
-- SEO Description
-- SEO Keywords
+Valuation Context
 
----
+Bull Case
 
-## Substack
+Base Case
 
-- Subtitle
-- Excerpt (100–150 words)
-- Suggested Tags
+Bear Case
+
+Key Assumptions
 
 ---
 
-## Social Media
+# KEY INSIGHT
 
-- Facebook Post
-- LinkedIn Post
-- X Thread
-- YouTube Description
+Summarize the single most important insight in no more than 50 words.
 
 ---
 
-## Image Prompts
+# THREE KEY TAKEAWAYS
+
+1.
+
+2.
+
+3.
+
+---
+
+# DISCUSSION QUESTION
+
+Invite readers to think critically.
+
+The question should encourage analysis rather than agreement.
+
+---
+
+# CHARTS
+
+Whenever sufficient data is available, include:
+
+Chart 1
+
+Revenue & Net Profit Trend
+
+---
+
+Chart 2
+
+Margins / ROE / ROA Trend
+
+---
+
+Chart 3
+
+Valuation History or Industry Comparison
+
+Each chart should include a short explanation.
+
+---
+
+# REFERENCES
+
+Financial Statements
+
+Annual Report
+
+Investor Presentation
+
+Company Website
+
+Industry Reports
+
+Government Statistics
+
+Other Reliable Sources
+
+---
+
+# SEO
+
+SEO Title
+
+Meta Description
+
+SEO Keywords
+
+Slug
+
+---
+
+# SUBSTACK SETTINGS
+
+Category
+
+Subtitle
+
+Excerpt
+
+Suggested Tags
+
+Reading Time
+
+Featured Quote
+
+---
+
+# IMAGE PROMPTS
 
 Generate prompts for:
 
-- Cover Image (16:9)
-- Facebook Image (4:5)
-- Thumbnail (16:9)
+Cover Image (16:9)
 
-Visual style:
+Facebook Image (4:5)
+
+Thumbnail (16:9)
+
+Style:
 
 - Modern
 - Minimal
 - Premium
 - Financial newspaper
 - White
-- Dark Blue
+- Dark Navy
 - Emerald Green
 
 ---
 
-## Community Engagement
+# SOCIAL MEDIA OUTPUTS
 
 Generate:
 
-- Five discussion comments to encourage constructive conversation.
-- One poll question (optional).
-- Three suggested follow-up article ideas.
+Facebook Post
+
+LinkedIn Post
+
+X Thread
+
+YouTube Description
+
+Blogger Summary
+
+Medium Summary
+
+---
+
+# COMMUNITY ENGAGEMENT
+
+Generate:
+
+Five discussion comments
+
+One poll question
+
+Three follow-up article ideas
+
+---
+
+# DISCLAIMER
+
+> Bài viết nhằm cung cấp kiến thức, luận điểm nghiên cứu và góc nhìn để hỗ trợ nhà đầu tư cá nhân hiểu rõ hơn về doanh nghiệp, ngành nghề và tư duy đầu tư dài hạn. Nội dung không phải là khuyến nghị mua, bán hay nắm giữ bất kỳ chứng khoán nào. Mỗi nhà đầu tư cần tự nghiên cứu và chịu trách nhiệm đối với quyết định đầu tư của mình.
+
+---
+
+# INTERNAL QUALITY CHECK
+
+□ Editorial Handbook compliant
+
+□ Research Framework compliant
+
+□ Fact vs Opinion separated
+
+□ Business before valuation
+
+□ Opportunities and risks balanced
+
+□ Financial data verified
+
+□ Sources cited
+
+□ Three charts included
+
+□ Discussion question included
+
+□ SEO completed
+
+□ Multi-channel outputs generated
+
+□ Ready for publication
