@@ -1,220 +1,393 @@
-# Research Framework
+# RESEARCH FRAMEWORK
 
-## Purpose
+Version: 3.0
 
-Mục tiêu của framework này là giúp phân tích doanh nghiệp một cách có hệ thống, khách quan và dựa trên dữ liệu.
+---
 
-Mọi bài nghiên cứu phải trả lời câu hỏi:
+# Purpose
 
-> Doanh nghiệp này tạo giá trị như thế nào, vì sao tăng trưởng và đâu là những yếu tố nhà đầu tư cần theo dõi?
+The purpose of this framework is to ensure every business research follows a consistent, objective, and evidence-based analytical process.
 
-Không đưa ra khuyến nghị Mua/Bán.
+The objective is **to understand the business**, not to predict short-term stock prices.
+
+Every research should answer four fundamental questions:
+
+1. How does the business create value?
+2. Why is the business growing or declining?
+3. What factors will determine its long-term performance?
+4. What should investors continue to monitor?
+
+Research should help readers build independent investment thinking instead of providing Buy or Sell recommendations.
+
+---
+
+# Research Principles
+
+Every research must follow these principles:
+
+• Business before valuation.
+
+• Context before conclusion.
+
+• Evidence before opinion.
+
+• Facts before forecasts.
+
+• Explain before evaluating.
+
+• Quality before growth.
+
+• Long-term thinking over short-term speculation.
+
+Whenever data is incomplete, clearly state the limitation instead of making assumptions.
+
+---
+
+# Research Workflow
+
+Every research follows the same analytical sequence.
+
+```
+Company
+      ↓
+Business Model
+      ↓
+Industry Analysis
+      ↓
+Competitive Advantage
+      ↓
+Financial Analysis
+      ↓
+Management
+      ↓
+Growth Drivers
+      ↓
+Valuation
+      ↓
+Risk Assessment
+      ↓
+Investment Thesis
+```
+
+Never skip a step.
 
 ---
 
 # 1. Company Overview
 
-Giới thiệu ngắn gọn:
+Introduce the company briefly.
 
-- Doanh nghiệp hoạt động trong lĩnh vực gì?
-- Thành lập khi nào?
-- Quy mô hiện tại.
-- Thị trường chính.
-- Sản phẩm hoặc dịch vụ cốt lõi.
+The objective is to help readers understand the business within two minutes.
 
-Mục tiêu là giúp người đọc hiểu doanh nghiệp trong vòng 2–3 phút.
+Explain:
+
+- Business activities
+- Products and services
+- Core customers
+- Geographic markets
+- Business scale
+- Revenue composition
+- Important subsidiaries (if applicable)
+
+Do not discuss valuation or stock price.
 
 ---
 
 # 2. Business Model
 
-Phân tích mô hình kinh doanh.
+Explain how the company creates value.
 
-Trả lời các câu hỏi:
+Answer the following questions:
 
-- Doanh nghiệp bán gì?
-- Khách hàng là ai?
-- Doanh thu đến từ đâu?
-- Chi phí lớn nhất là gì?
-- Điều gì tạo ra lợi nhuận?
-- Mô hình có khả năng mở rộng không?
-- Doanh thu mang tính định kỳ hay theo chu kỳ?
+- What does the company sell?
+- Who are its customers?
+- Where does revenue come from?
+- What drives profitability?
+- What are the largest costs?
+- Is revenue recurring or cyclical?
+- Is the model scalable?
+- Which business segment contributes the most value?
 
-Nếu doanh nghiệp có nhiều mảng kinh doanh, hãy phân tích từng mảng và tỷ trọng đóng góp.
+If multiple business segments exist, analyze each separately.
 
----
-
-# 3. Competitive Advantages
-
-Đánh giá lợi thế cạnh tranh.
-
-Có thể xem xét:
-
-- Thương hiệu
-- Quy mô
-- Công nghệ
-- Chi phí thấp
-- Mạng lưới phân phối
-- Switching Cost
-- Network Effect
-- Giấy phép hoặc rào cản pháp lý
-
-Nếu lợi thế cạnh tranh chưa bền vững, cần nêu rõ.
+Always explain **why** the business model works.
 
 ---
 
-# 4. Industry Analysis
+# 3. Industry Analysis
 
-Đặt doanh nghiệp trong bối cảnh ngành.
+The company should always be analyzed within its industry.
 
-Phân tích:
+Research should include:
 
-- Quy mô ngành
-- Tốc độ tăng trưởng
-- Xu hướng dài hạn
-- Chu kỳ ngành
-- Đối thủ cạnh tranh
-- Thị phần
-- Rào cản gia nhập
+- Industry size
+- Industry growth
+- Market structure
+- Competitive landscape
+- Market share
+- Industry cycle
+- Entry barriers
+- Regulatory environment
+- Long-term industry trends
 
-Giải thích doanh nghiệp được hưởng lợi hoặc chịu ảnh hưởng như thế nào từ ngành.
+Explain whether industry conditions support or constrain future growth.
+
+---
+
+# 4. Competitive Advantage
+
+Evaluate whether the company possesses durable competitive advantages.
+
+Possible sources include:
+
+- Brand
+- Cost leadership
+- Distribution network
+- Technology
+- Customer switching costs
+- Network effects
+- Intellectual property
+- Regulatory licenses
+- Economies of scale
+
+Clearly distinguish between temporary and durable advantages.
 
 ---
 
 # 5. Financial Analysis
 
-Ưu tiên phân tích:
+Financial analysis should explain the business rather than simply report numbers.
+
+Research should cover:
+
+## Growth
 
 - Revenue
 - Gross Profit
 - Operating Profit
 - Net Profit
 - EPS
-- ROE
-- ROA
-- Gross Margin
-- Operating Margin
-- Net Margin
-- Operating Cash Flow
-- Free Cash Flow
-- Debt
 
-So sánh:
+Analyze:
 
 - QoQ
 - YoY
-- Xu hướng 3 năm
-- Xu hướng 5 năm (nếu có)
+- Three-year trend
+- Five-year trend (when available)
 
-Không chỉ nêu số liệu.
+---
 
-Luôn giải thích:
+## Profitability
 
-- Điều gì thay đổi?
-- Vì sao thay đổi?
-- Thay đổi đó có bền vững không?
+Evaluate:
+
+- Gross Margin
+- Operating Margin
+- Net Margin
+- ROE
+- ROA
+
+Explain whether profitability improvements are sustainable.
+
+---
+
+## Cash Flow
+
+Analyze:
+
+- Operating Cash Flow
+- Free Cash Flow
+- Cash Conversion
+
+Discuss earnings quality rather than focusing only on accounting profit.
+
+---
+
+## Financial Position
+
+Review:
+
+- Debt
+- Liquidity
+- Capital structure
+- Working capital
+
+Evaluate financial flexibility.
+
+---
+
+## Capital Allocation
+
+Assess management decisions regarding:
+
+- CAPEX
+- M&A
+- Dividends
+- Share buybacks
+- ESOP
+- Debt financing
+
+Focus on long-term value creation.
+
+---
+
+Every financial section should answer:
+
+- What changed?
+- Why did it change?
+- Is it sustainable?
+- What should investors continue monitoring?
 
 ---
 
 # 6. Management
 
-Đánh giá ban lãnh đạo.
+Evaluate management using actions rather than promises.
 
-Có thể xem xét:
+Review:
 
-- CEO
-- Founder
-- Chiến lược
-- Khả năng thực thi
-- Phân bổ vốn
-- M&A
-- ESOP
-- Quản trị doanh nghiệp
+- Leadership quality
+- Execution capability
+- Strategic consistency
+- Capital allocation discipline
+- Corporate governance
+- Long-term vision
 
-Ưu tiên đánh giá dựa trên kết quả thực tế thay vì phát biểu của lãnh đạo.
+Whenever possible, evaluate management based on historical performance.
 
 ---
 
-# 7. Growth Catalysts
+# 7. Growth Drivers
 
-Xác định các động lực tăng trưởng trong tương lai.
+Separate growth drivers into categories.
 
-Ví dụ:
+## Structural Drivers
 
-- Mở rộng thị trường
-- Nhà máy mới
-- Sản phẩm mới
-- Chính sách hỗ trợ
-- Chuyển đổi số
-- M&A
-- Phục hồi chu kỳ ngành
+Long-term growth factors.
 
-Nêu rõ đây là yếu tố đã xảy ra hay chỉ là kỳ vọng.
+Examples:
+
+- Market expansion
+- Product innovation
+- Capacity expansion
+- Digital transformation
+
+---
+
+## Cyclical Drivers
+
+Short-term industry recovery.
+
+Examples:
+
+- Commodity cycle
+- Interest rates
+- Economic recovery
+
+---
+
+## Company-specific Drivers
+
+Internal initiatives.
+
+Examples:
+
+- New factory
+- New products
+- Market share gains
+
+Clearly distinguish confirmed catalysts from expectations.
 
 ---
 
 # 8. Valuation
 
-Đánh giá định giá tách biệt với chất lượng doanh nghiệp.
+Valuation should always be discussed separately from business quality.
 
-Có thể sử dụng:
+Possible approaches include:
 
 - P/E
 - P/B
 - EV/EBITDA
 - DCF
-- So sánh với doanh nghiệp cùng ngành
-- So sánh với lịch sử
+- Relative valuation
+- Historical valuation
 
-Luôn trình bày giả định sử dụng trong định giá.
+Every valuation discussion should explain:
 
-Không kết luận nên mua hoặc bán.
+- Key assumptions
+- Strengths
+- Limitations
+
+Never conclude with Buy or Sell recommendations.
 
 ---
 
-# 9. Risks
+# 9. Risk Assessment
 
-Mọi bài viết đều phải có phần rủi ro.
+Every research must include a balanced discussion of risks.
 
-Có thể bao gồm:
+Possible categories:
 
-- Cạnh tranh
-- Lãi suất
-- Tỷ giá
-- Giá nguyên liệu
-- Pháp lý
-- Công nghệ
-- Quản trị
-- Chu kỳ ngành
+- Business risks
+- Financial risks
+- Industry risks
+- Regulatory risks
+- Competitive risks
+- Execution risks
+- Macroeconomic risks
 
-Giải thích mức độ ảnh hưởng và những chỉ báo cần theo dõi.
+For every major risk explain:
+
+- Why it matters
+- Potential impact
+- Indicators to monitor
 
 ---
 
 # 10. Investment Thesis
 
-Tóm tắt toàn bộ bài nghiên cứu.
+Summarize the research into one coherent investment thesis.
 
-Trả lời:
+Discuss:
 
-- Điều gì làm doanh nghiệp đáng chú ý?
-- Những yếu tố hỗ trợ tăng trưởng?
-- Những rủi ro lớn nhất?
-- Nhà đầu tư nên tiếp tục theo dõi điều gì?
+- Business quality
+- Competitive position
+- Growth outlook
+- Capital allocation
+- Valuation context
+- Key risks
 
-Không đưa ra khuyến nghị đầu tư.
+Conclude with:
+
+"What evidence would change this thesis?"
+
+The investment thesis should encourage independent thinking rather than providing investment advice.
 
 ---
 
-# Research Principles
+# Research Checklist
 
-Luôn:
+Before completing the research, verify:
 
-- Dựa trên dữ liệu.
-- Trích dẫn nguồn khi có.
-- Phân biệt FACT và OPINION.
-- Giải thích nguyên nhân thay đổi số liệu.
-- Phân biệt chất lượng doanh nghiệp và mức định giá.
-- Nêu rõ khi dữ liệu còn thiếu hoặc chưa được xác minh.
+- [ ] Business model clearly explained.
+- [ ] Industry context analyzed.
+- [ ] Competitive advantages evaluated.
+- [ ] Financial changes explained.
+- [ ] QoQ and YoY comparisons included.
+- [ ] Long-term trends discussed.
+- [ ] Management assessed objectively.
+- [ ] Growth drivers identified.
+- [ ] Valuation discussed separately.
+- [ ] Risks presented fairly.
+- [ ] Facts separated from opinions.
+- [ ] Sources cited whenever available.
+- [ ] Missing data clearly acknowledged.
 
-Nếu thiếu dữ liệu, hãy nói rõ thay vì suy đoán.
+---
+
+# Final Principle
+
+The purpose of research is not to predict the next movement of a stock price.
+
+The purpose is to understand the business well enough that readers can develop their own informed, evidence-based investment conclusions.
