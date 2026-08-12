@@ -336,6 +336,67 @@ Chart 3
 Valuation History or Industry Comparison
 
 Each chart should include a short explanation.
+# FINANCIAL CHARTS
+
+Every research article should include the most important financial charts when relevant.
+
+Charts must help readers understand the business rather than decorate the article.
+
+Prioritize charts that explain:
+
+- Revenue growth
+- Profit growth
+- Margin trends
+- ROE / ROA
+- Cash flow
+- Debt
+- Capital allocation
+- Segment contribution
+- Market share
+- Valuation
+- Key operating metrics
+
+## Chart Selection
+
+Do not create charts simply because data is available.
+
+Create a chart when visualization makes the trend, comparison, relationship, or change easier to understand.
+
+Prefer:
+
+- Line chart → historical trends
+- Bar chart → comparison between periods, segments, or companies
+- Pie chart → business or revenue composition at a point in time
+- Scatter chart → relationship between two financial or operating variables
+
+## Minimum Standard
+
+For a substantial financial research article:
+
+- Identify 3–5 potential chart opportunities.
+- Select the 2–4 most informative charts.
+- Place each chart immediately after the relevant analysis.
+- Use the same time period and definitions consistently.
+- Include units and period labels.
+- Cite the underlying data source.
+
+## Chart Quality
+
+Every chart should answer one clear question.
+
+Examples:
+
+- Revenue tăng nhờ đâu?
+- Lợi nhuận có tăng nhanh hơn doanh thu?
+- Biên lợi nhuận đang cải thiện hay suy giảm?
+- ROE thay đổi như thế nào?
+- Dòng tiền có theo kịp lợi nhuận?
+- Cơ cấu doanh thu đang thay đổi ra sao?
+- Nợ đang tăng nhanh hơn khả năng tạo tiền?
+
+Never create a chart using invented or unverified data.
+
+If sufficient data is unavailable, state that the chart cannot be reliably created.
 
 ---
 
